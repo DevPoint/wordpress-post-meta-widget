@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Teaser Widget\n"
+"POT-Creation-Date: 2015-02-26 16:11+0100\n"
+"PO-Revision-Date: 2015-02-26 16:11+0100\n"
+"Last-Translator: Wilfried Reiter <wilfried.reiter@devpoint.at>\n"
+"Language-Team: Devpoint | Wilfried Reiter <office@devpoint.at>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ./views\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: views/widget-admin.php:14
+msgid "Title:"
+msgstr "Title:"
+
+#: views/widget-admin.php:18
+msgid "Post Type:"
+msgstr "Post Type:"
+
+#: views/widget-admin.php:27
+msgid "Permalink:"
+msgstr "Permalink:"
+
+#: views/widget-admin.php:33
+msgid "Template:"
+msgstr "Template:"
+
+#: views/widget-admin.php:36
+msgid "default"
+msgstr "default"
+
+#: views/widget.php:27
+msgid "Sorry, this entry does not exist!"
+msgstr "Sorry, this entry does not exist!"
+
+#: post-gallery-widget.php:130
+msgid "Post Gallery"
+msgstr "Post Gallery"
+
+#: post-gallery-widget.php:132
+msgid "Displays a gallery of attached gallery images."
+msgstr "Displays a gallery of attached gallery images."
+
+#~ msgid "Teaser:"
+#~ msgstr "Teaser:"
+
+#~ msgid "Image Position:"
+#~ msgstr "Image Position:"
+
+#~ msgid "Post Teaser"
+#~ msgstr "Post Teaser"
+
+#~ msgid "Teaser of a post using its featured image."
+#~ msgstr "Teaser of a post using its featured image."
+
+#~ msgid "top"
+#~ msgstr "top"
+
+#~ msgid "middle"
+#~ msgstr "middle"
+
+#~ msgid "hide"
+#~ msgstr "hide"
+
+#~ msgid "[hidden]"
+#~ msgstr "[hidden]"
