@@ -164,7 +164,6 @@ class DPT_Post_Meta_Widget extends WP_Widget {
 		return $this->plugin_version;
 	}
 
-
 	/*--------------------------------------------------*/
 	/* Widget API Functions
 	/*--------------------------------------------------*/
@@ -181,7 +180,7 @@ class DPT_Post_Meta_Widget extends WP_Widget {
 	public function widget($args, $instance) 
 	{
 		$instance['title'] = $this->_apply_text_filters(apply_filters('widget_title', empty($instance['title']) ? '' : $instance['title']));
-		$instance['max_count'] = apply_filters($this->get_widget_slug() . '_max_count', ($instance['max_count'], $args, $instance);
+		$instance['max_count'] = apply_filters($this->get_widget_slug() . '_max_count', $instance['max_count'], $args, $instance);
 		include ($this->get_template('widget', $instance['template']));
     }
 
