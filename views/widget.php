@@ -1,6 +1,6 @@
 <?php
 /**
- * Post Gallery Widget: Default widget template
+ * Post Mega Widget: Default widget template
  * 
  * @since 1.0.0
  */

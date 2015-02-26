@@ -1,6 +1,6 @@
 <?php
 /**
- * Post Gallery Widget: Widget Admin Form 
+ * Post Meta Widget: Widget Admin Form 
  * 
  * @since 1.0.0
  */

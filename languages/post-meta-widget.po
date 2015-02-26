@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Post Teaser Widget\n"
-"POT-Creation-Date: 2015-02-26 16:11+0100\n"
-"PO-Revision-Date: 2015-02-26 16:11+0100\n"
+"POT-Creation-Date: 2015-02-26 20:06+0100\n"
+"PO-Revision-Date: 2015-02-26 20:06+0100\n"
 "Last-Translator: Wilfried Reiter <wilfried.reiter@devpoint.at>\n"
 "Language-Team: Devpoint | Wilfried Reiter <office@devpoint.at>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.7.1\n"
+"X-Generator: Poedit 1.7.4\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: ../\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,18 +21,14 @@ msgid "Title:"
 msgstr "Title:"
 
 #: views/widget-admin.php:18
-msgid "Post Type:"
-msgstr "Post Type:"
+msgid "Max count:"
+msgstr "Max count:"
 
-#: views/widget-admin.php:27
-msgid "Permalink:"
-msgstr "Permalink:"
-
-#: views/widget-admin.php:33
+#: views/widget-admin.php:24
 msgid "Template:"
 msgstr "Template:"
 
-#: views/widget-admin.php:36
+#: views/widget-admin.php:27
 msgid "default"
 msgstr "default"
 
@@ -40,13 +36,25 @@ msgstr "default"
 msgid "Sorry, this entry does not exist!"
 msgstr "Sorry, this entry does not exist!"
 
-#: post-gallery-widget.php:130
-msgid "Post Gallery"
-msgstr "Post Gallery"
+#: post-meta-widget.php:116
+msgid "Post Meta"
+msgstr "Post Meta"
 
-#: post-gallery-widget.php:132
-msgid "Displays a gallery of attached gallery images."
-msgstr "Displays a gallery of attached gallery images."
+#: post-meta-widget.php:118
+msgid "Displays custom fields from the current post."
+msgstr "Displays custom fields from the current post."
+
+#~ msgid "Post Type:"
+#~ msgstr "Post Type:"
+
+#~ msgid "Permalink:"
+#~ msgstr "Permalink:"
+
+#~ msgid "Post Gallery"
+#~ msgstr "Post Gallery"
+
+#~ msgid "Displays a gallery of attached gallery images."
+#~ msgstr "Displays a gallery of attached gallery images."
 
 #~ msgid "Teaser:"
 #~ msgstr "Teaser:"

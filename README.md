@@ -1,4 +1,4 @@
-# Post Gallery Widget #
+# Post Meta Widget #
 **Contributors:** willriderat
 **Tags:** widget, widgets, posts, categories, tags, recent posts, thumbnails, custom post types, custom taxonomies, feature image  
 **Requires at least:** 3.9  
